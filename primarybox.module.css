@@ -1,0 +1,9 @@
+.box_primary{
+  background-color:rgb(13, 96, 211);
+  color:rgb(233, 241, 230);
+  margin-left:0.25rem ; 
+  padding:20px 30px; 
+  border: none;
+  cursor:pointer;
+  border-radius: 5px;
+}
